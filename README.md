@@ -1,1 +1,1 @@
-博客都在Issues里面。
+博客都在[Issues](https://github.com/fayeah/blogs/issues)里面。
