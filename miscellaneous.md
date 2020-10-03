@@ -1,0 +1,1 @@
+- `window.length`的输出：[reference](https://developer.mozilla.org/en-US/docs/Web/API/Window/length)
