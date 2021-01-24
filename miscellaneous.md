@@ -1,1 +1,2 @@
 - `window.length`的输出：[reference](https://developer.mozilla.org/en-US/docs/Web/API/Window/length)
+- `Promise`由浅入深好文：[reference](https://juejin.cn/post/6844904077537574919#heading-0)
